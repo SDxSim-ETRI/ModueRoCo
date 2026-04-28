@@ -1,18 +1,18 @@
-# ModueRoCo 🤖
+# ModuëRoCo 🤖
 
-**ModueRoCo** is an open-source robot learning and control framework, spun off from the LoCoMuJoCo project. It is designed to bridge the gap between high-level neural network policies (VLA/RL) and diverse robotic hardware.
+**ModuëRoCo** is an open-source robot learning and control framework, spun off from the LoCoMuJoCo project. It is designed to bridge the gap between high-level neural network policies (VLA/RL) and diverse robotic hardware.
 
 ---
 
-## ✨ What is "Modue"? (Etymology)
+## ✨ What is "Moduë"? (Etymology)
 
-The prefix **Modue** carries the core philosophy of our ecosystem.
+The prefix **Moduë** carries the core philosophy of our ecosystem.
 
 * **Origin**: Derived from the Korean phrase **"모두의" (Modu-ui)**, which means **"Everyone's"** or **"For Everyone"**.
-* **Pronunciation**: We adapted the spelling to **"Modue" (모두에 /mo.du.e/)** to make it phonetically intuitive for global users while maintaining its friendly, inclusive Korean roots.
+* **Pronunciation**: We adapted the spelling to **"Moduë" (모두에 /mo.du.e/)** to make it phonetically intuitive for global users while maintaining its friendly, inclusive Korean roots.
 * **Vision**: Just as in "AI for everyone" or "Data for everyone," **Modue** signifies our commitment to building robotics tools that are accessible, collaborative, and open to the entire research community.
 
-> **ModueRoCo** = **Modue** (Everyone's) + **Ro**bot **Co**ntrol
+> **ModuëRoCo** = **Moduë** (Everyone's) + **Ro**bot **Co**ntrol
 
 ---
 
@@ -27,9 +27,9 @@ The prefix **Modue** carries the core philosophy of our ecosystem.
 
 ## 🏗️ The Modue Ecosystem
 
-ModueRoCo works best alongside our specialized tools:
-* **ModueAtlas**: A deep-dive visualizer for robotics datasets (OXE, LeRobot, etc.).
-* **ModueLumen**: A high-fidelity rendering bridge powered by Unreal Engine.
-* **ModueLink**: The communication backbone connecting policies to simulation/hardware.
+ModuëRoCo works best alongside our specialized tools:
+* **ModuëAtlas**: A deep-dive visualizer for robotics datasets (OXE, LeRobot, etc.).
+* **ModuëLumen**: A high-fidelity rendering bridge powered by Unreal Engine.
+* **ModuëLink**: The communication backbone connecting policies to simulation/hardware.
 
 ---
